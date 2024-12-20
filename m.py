@@ -9,3 +9,4 @@ c1=c
 c=d
 d=c1
 print(a,b,c,d,end=' ')
+print('danish')
