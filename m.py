@@ -1,4 +1,4 @@
-a,b,c,d,e=1,2,3,4,5
+a,b,c,d=1,2,3,4
 a1=a
 a=f
 f=a1
@@ -8,4 +8,4 @@ e=b1
 c1=c
 c=d
 d=c1
-print(a,b,c,d,e,end=' ')
+print(a,b,c,d,end=' ')
