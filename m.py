@@ -10,3 +10,4 @@ c=d
 d=c1
 print(a,b,c,d,end=' ')
 print('danish')
+print('zaman')
